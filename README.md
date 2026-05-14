@@ -40,7 +40,10 @@ const adrian = {
 ![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=f24e1e)
 
 </div>
-<br>
+
+
+<br/>
+
 ## 🌐 Portfolio
 
 <div align="center">
