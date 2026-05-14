@@ -40,7 +40,20 @@ const adrian = {
 ![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=f24e1e)
 
 </div>
+<br>
+## 🌐 Portfolio
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/portfolio-portfolio--cichockiadrian.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cichockiadrian.vercel.app)
+
+</div>
+
+<div align="center">
+  <a href="https://portfolio-cichockiadrian.vercel.app">
+    <img src="https://api.microlink.io/?url=https://portfolio-cichockiadrian.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Portfolio Preview"/>
+  </a>
+</div>
 <br/>
 
 ## 📦 Featured Projects
