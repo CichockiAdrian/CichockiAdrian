@@ -64,8 +64,8 @@ const adrian = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CichockiAdrian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=f97316&text_color=e2e8f0&ring_color=7c3aed" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CichockiAdrian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e2e8f0&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CichockiAdrian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=f97316&text_color=e2e8f0&ring_color=7c3aed" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CichockiAdrian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e2e8f0&langs_count=6" height="165"/>
 </div>
 
 <br/>
