@@ -17,8 +17,7 @@
 const adrian = {
   location: "Poznań, Poland 🇵🇱",
   role: "Full-Stack Developer",
-  stack: ["React", "Next.js", "TypeScript", "Expo", "Supabase"],
-  currentlyBuilding: ["eliby-store", "zaprolink", "portfolio"],
+  stack: ["React", "Next.js", "TypeScript", "Expo"],
   motto: "Commit now, regret later.",
 };
 ```
