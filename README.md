@@ -177,7 +177,7 @@ The application helps users avoid losing paper vouchers by keeping their codes, 
 
 `React Native` `Expo` `TypeScript` `SQLite` `Expo Camera`
 
-[Repository](https://github.com/CichockiAdrian/zwrotka-v2) · [Live demo](zwrotka.vercel.app)
+[Repository](https://github.com/CichockiAdrian/zwrotka-v2) · [Live demo](https://zwrotka.vercel.app/)
 
 ---
 
