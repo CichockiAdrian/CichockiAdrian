@@ -181,15 +181,6 @@ The application helps users avoid losing paper vouchers by keeping their codes, 
 
 ---
 
-## Current focus
-
-- production-ready Android and Flutter applications
-- document automation and reliable data extraction
-- marketplace and e-commerce integrations
-- reusable libraries and application modules
-- maintainable architecture and automated testing
-
----
 
 ## GitHub activity
 
