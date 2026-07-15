@@ -20,7 +20,6 @@ I combine software development with hands-on e-commerce experience.
 
 My work focuses on mobile applications, marketplace integrations, internal business tools and automation. I care about maintainable architecture, reliability and solving practical problems rather than building technology only for demonstration purposes.
 
-Currently working mainly with **Kotlin, Flutter and TypeScript**.
 
 ---
 
