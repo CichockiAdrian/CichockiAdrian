@@ -1,104 +1,181 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Adrian%20Cichocki&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Poznań&descAlignY=55&descAlign=50" width="100%"/>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7c3aed&height=150&section=header&text=Adrian%20Cichocki&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20E-commerce%20%E2%80%A2%20Mobile&descAlignY=66&descSize=17" width="100%" alt="Adrian Cichocki"/>
 
-<div align="center">
-  <a href="https://github.com/CichockiAdrian">
-    <img src="https://komarev.com/ghpvc/?username=CichockiAdrian&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/CichockiAdrian?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
-</div>
+### Software Developer & Junior E-commerce Specialist
 
-<br/>
+I build mobile applications, e-commerce integrations and tools that automate real business processes.
 
-```ts
-const adrian = {
-  location: "Poznań, Poland 🇵🇱",
-  role: "Full-Stack Developer",
-  stack: ["React", "Next.js", "TypeScript", "Expo"],
-  motto: "Commit now, regret later.",
-};
-```
+Based in Poznań, Poland.
 
-<br/>
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Expo](https://img.shields.io/badge/Expo-1a1a2e?style=for-the-badge&logo=expo&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=4169e1)
-![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=f24e1e)
+[Portfolio](https://portfolio-cichockiadrian.vercel.app) · [GitHub](https://github.com/CichockiAdrian)
 
 </div>
 
+---
 
-<br/>
+## About me
 
-## 🌐 Portfolio
+I combine software development with hands-on e-commerce experience.
+
+My work focuses on mobile applications, marketplace integrations, internal business tools and automation. I care about maintainable architecture, reliability and solving practical problems rather than building technology only for demonstration purposes.
+
+Currently working mainly with **Kotlin, Flutter and TypeScript**.
+
+---
+
+## Selected work
+
+### DocFlow
+
+**Private commercial project — source code is not publicly available**
+
+Desktop application that extracts structured information from identity documents, residence permits, passports, document photos and PDF files.
+
+The application combines OCR, cloud-based document processing and validation rules to convert unstructured documents into reviewable data.
+
+**Main areas of work:**
+
+- Windows desktop application
+- OCR and AI-assisted document processing
+- image and PDF handling
+- structured field extraction
+- recognition confidence and data validation
+- application packaging and client delivery
+- reliability improvements for real-world documents
+
+`Windows Desktop` `OCR` `Azure AI` `Document Processing` `PDF`
+
+<!--
+After adding a DocFlow screenshot to this repository, uncomment this section:
+
+<p align="center">
+  <img src="./assets/docflow-preview.png" width="90%" alt="DocFlow application preview"/>
+</p>
+-->
+
+---
+
+### [RestCountriesApp](https://github.com/CichockiAdrian/RestCountriesApp)
+
+Native Android application built with production-oriented architecture and modern Android technologies.
+
+- offline-first data flow with Room as the Single Source of Truth
+- Clean Architecture with MVI/UDF
+- Jetpack Compose and Material 3
+- Google Sign-In with Firebase Authentication
+- Firebase Crashlytics and Analytics
+- REST Countries and MediaWiki API integrations
+- pagination, search and reactive state management
+- ViewModel and use-case tests
+
+`Kotlin` `Jetpack Compose` `Room` `Koin` `Retrofit` `Firebase`
+
+---
+
+### [Travel Journal](https://github.com/CichockiAdrian/travel_journal_app)
+
+Cross-platform mobile application for recording journeys, visited countries and places planned for the future.
+
+- interactive 2D map and 3D globe
+- personal travel diary with photos
+- visited-country tracking
+- planned places and distance calculations
+- background location checks
+- nearby-place notifications
+- Firebase authentication and cloud synchronization
+- statistics, streaks and achievements
+- Polish and English localization
+
+`Flutter` `Dart` `Firebase` `BLoC` `Firestore` `Maps` `Geolocation`
+
+---
+
+### Marketplace API clients
+
+Reusable TypeScript packages created as foundations for server-side e-commerce integrations.
+
+| Package | Purpose |
+|---|---|
+| [Allegro REST Client](https://github.com/CichockiAdrian/allegro-rest-client-ts) | OAuth, token rotation, retry handling and typed Allegro API requests |
+| [ERLI REST Client](https://github.com/CichockiAdrian/erli-rest-client-ts) | Typed communication with the ERLI marketplace API |
+| [Shopify Admin Client](https://github.com/CichockiAdrian/shopify-admin-client-ts) | Reusable Shopify Admin API integration |
+
+`TypeScript` `Node.js` `OAuth` `REST APIs` `npm`
+
+---
+
+## E-commerce and business systems
+
+Apart from application development, I work with practical e-commerce processes such as:
+
+- marketplace and order integrations
+- product feed imports
+- pricing and inventory synchronization
+- Shoper storefront development
+- BaseLinker-connected workflows
+- internal operational dashboards
+- automation of repetitive business processes
+
+This experience helps me design software around real company workflows rather than isolated technical requirements.
+
+---
+
+## Technology
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/portfolio-portfolio--cichockiadrian.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cichockiadrian.vercel.app)
+![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Android](https://img.shields.io/badge/Android-111827?style=flat-square&logo=android&logoColor=3DDC84)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-111827?style=flat-square&logo=dart&logoColor=0175C2)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E)
 
 </div>
 
-<div align="center">
-  <a href="https://portfolio-cichockiadrian.vercel.app">
-    <img src="https://api.microlink.io/?url=https://portfolio-cichockiadrian.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Portfolio Preview"/>
-  </a>
-</div>
-<br/>
+---
 
-## 📦 Featured Projects
+## Additional projects
 
-<div align="center">
+| Project | Description |
+|---|---|
+| [PizzaFresh](https://github.com/CichockiAdrian/PizzaFresh) | Food ordering and delivery interface |
+| [zaprolink](https://github.com/CichockiAdrian/zaprolink) | Digital invitation builder |
+| [eliby-store](https://github.com/CichockiAdrian/eliby-store) | E-commerce application |
+| [Bud-etowy](https://github.com/CichockiAdrian/Bud-etowy) | Personal budget management application |
 
-| Project | Description | Tech |
-|---|---|---|
-| [**🍕 PizzaFresh**](https://github.com/CichockiAdrian/PizzaFresh) | Real-time pizza delivery tracker | TypeScript · React |
-| [**💌 zaprolink**](https://github.com/CichockiAdrian/zaprolink) | Digital invitation builder | TypeScript · Next.js |
-| [**💰 Bud-etowy**](https://github.com/CichockiAdrian/Bud-etowy) | Personal budget planner | JavaScript |
-| [**🛒 eliby-store**](https://github.com/CichockiAdrian/eliby-store) | E-commerce platform | TypeScript · Supabase |
-| [**📊 Flowfunds**](https://github.com/CichockiAdrian/Flowfunds_working) | Financial flow management | JavaScript |
-| [**👁️ SeeHowlApp2**](https://github.com/CichockiAdrian/SeeHowlApp2) | Visual analytics app | TypeScript |
+---
 
-</div>
+## Current focus
 
-<br/>
+- production-ready Android and Flutter applications
+- document automation and reliable data extraction
+- marketplace and e-commerce integrations
+- reusable libraries and application modules
+- maintainable architecture and automated testing
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CichockiAdrian&theme=tokyonight" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CichockiAdrian&theme=tokyonight" height="165"/>
-</div>
-
-<br/>
+## GitHub overview
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CichockiAdrian&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=7c3aed&ring=7c3aed&fire=f97316&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=6b7280" width="60%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CichockiAdrian&theme=github_dark" width="100%" alt="GitHub contribution overview"/>
+
 </div>
 
-<br/>
-
-## 📈 Contribution Graph
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CichockiAdrian&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=7c3aed&line=7c3aed&point=f97316" width="100%"/>
-</div>
 
-<br/>
+### Let’s build something useful.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%"/>
+[View my portfolio](https://portfolio-cichockiadrian.vercel.app)
+
 </div>
