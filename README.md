@@ -140,14 +140,44 @@ This experience helps me design software around real company workflows rather th
 
 ---
 
-## Additional projects
+## More products
 
-| Project | Description |
-|---|---|
-| [PizzaFresh](https://github.com/CichockiAdrian/PizzaFresh) | Food ordering and delivery interface |
-| [zaprolink](https://github.com/CichockiAdrian/zaprolink) | Digital invitation builder |
-| [eliby-store](https://github.com/CichockiAdrian/eliby-store) | E-commerce application |
-| [Bud-etowy](https://github.com/CichockiAdrian/Bud-etowy) | Personal budget management application |
+### [Zaprolink](https://github.com/CichockiAdrian/zaprolink)
+
+Digital invitation platform for weddings, birthdays and business events.
+
+Users can create interactive invitation pages with RSVP forms, maps, galleries and live previews, then share them through a direct link or QR code.
+
+- invitation page builder
+- reusable event templates
+- RSVP management dashboard
+- authentication with Supabase
+- Stripe Checkout integration
+- public invitation pages
+- Vercel deployment
+
+`Next.js` `React` `TypeScript` `Supabase` `Stripe` `Tailwind CSS`
+
+[Repository](https://github.com/CichockiAdrian/zaprolink) · [Live demo](https://zaprolink.vercel.app/)
+
+---
+
+### [Zwrotka](https://github.com/CichockiAdrian/zwrotka-v2)
+
+Mobile application for saving and managing vouchers received after returning bottles and cans.
+
+The application helps users avoid losing paper vouchers by keeping their codes, values and expiration dates in one place.
+
+- QR and barcode scanning
+- local offline storage
+- voucher value tracking
+- active, used and expired statuses
+- full-screen code display
+- Android builds with Expo and EAS
+
+`React Native` `Expo` `TypeScript` `SQLite` `Expo Camera`
+
+[Repository](https://github.com/CichockiAdrian/zwrotka-v2) · [Live demo](zwrotka.vercel.app)
 
 ---
 
