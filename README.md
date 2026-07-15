@@ -162,11 +162,15 @@ This experience helps me design software around real company workflows rather th
 
 ---
 
-## GitHub overview
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CichockiAdrian&theme=github_dark" width="100%" alt="GitHub contribution overview"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=CichockiAdrian&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Activity"
+  width="100%"
+  alt="Adrian Cichocki GitHub activity graph"
+/>
 
 </div>
 
