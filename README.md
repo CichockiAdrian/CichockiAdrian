@@ -182,20 +182,6 @@ The application helps users avoid losing paper vouchers by keeping their codes, 
 ---
 
 
-## GitHub activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=CichockiAdrian&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Activity"
-  width="100%"
-  alt="Adrian Cichocki GitHub activity graph"
-/>
-
-</div>
-
----
-
 <div align="center">
 
 ### Let’s build something useful.
